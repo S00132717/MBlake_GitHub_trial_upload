@@ -11,6 +11,8 @@ namespace MBlake_GitHub_Trial
         static void Main(string[] args)
         {
             Console.WriteLine("Success");
+            Console.WriteLine("Success2");
+            Console.WriteLine("Success3");
         }
     }
 }

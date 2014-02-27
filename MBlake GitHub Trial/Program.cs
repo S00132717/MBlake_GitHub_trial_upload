@@ -10,6 +10,7 @@ namespace MBlake_GitHub_Trial
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Success");
         }
     }
 }
